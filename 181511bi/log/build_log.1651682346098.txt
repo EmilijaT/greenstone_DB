@@ -1,0 +1,23 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Happier_Than_Ever_Album_Img.jpg is being processed by ImagePlugin.
+The file _118316500_eilishreuters.jpg is being processed by ImagePlugin.
+The file billie_eilish_happier_than_ever_official_music_video.mp3 is being processed by MP3Plugin.
+The file billie_eilish_ocean_eyes_official_music_video.mp3 is being processed by MP3Plugin.
+The file video-everything_i_wanted.mp4 was not recognised by any plugin.
+The file video-hostage.mp4 was not recognised by any plugin.
+The file wp4380995.jpg is being processed by ImagePlugin.
+The file wp7474499.jpg is being processed by ImagePlugin.
+The file wp7474501.jpg is being processed by ImagePlugin.
+************** Import Finished **************
+9 documents were considered for processing:
+    7 documents were processed and included in the collection.
+    2 were unrecognised.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Format;dc.Language;dc.Date;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Format;dc.Language;dc.Date;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

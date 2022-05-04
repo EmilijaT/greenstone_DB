@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\wp7474501.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">wp7474501.jpg</Metadata>
+    <Metadata name="OrigSource">wp7474501.jpg</Metadata>
+    <Metadata name="Source">wp7474501.jpg</Metadata>
+    <Metadata name="SourceFile">wp7474501.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">27801</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">719</Metadata>
+    <Metadata name="ImageHeight">1280</Metadata>
+    <Metadata name="ImageSize">27.1KB</Metadata>
+    <Metadata name="srclink_file">wp7474501.jpg</Metadata>
+    <Metadata name="srclinkFile">wp7474501.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">wp7474501_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">56</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">wp7474501_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">281</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">04.05.2022</Metadata>
+    <Metadata name="dc.Description">Quote Billie Eilish</Metadata>
+    <Metadata name="dc.Format">jpg</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Title">Billie Eilish photo</Metadata>
+    <Metadata name="dc.Type">Image</Metadata>
+    <Metadata name="Title">wp7474501</Metadata>
+    <Metadata name="Identifier">HASH01ba1381e4a115c9222216ff</Metadata>
+    <Metadata name="lastmodified">1651680600</Metadata>
+    <Metadata name="lastmodifieddate">20220504</Metadata>
+    <Metadata name="oailastmodified">1651682416</Metadata>
+    <Metadata name="oailastmodifieddate">20220504</Metadata>
+    <Metadata name="assocfilepath">HASH01ba.dir</Metadata>
+    <Metadata name="gsdlassocfile">wp7474501.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">wp7474501_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">wp7474501_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

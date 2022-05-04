@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\YmlsbGllX2VpbGlzaF9oYXBwaWVyX3RoYW5fZXZlcl9vZmZpY2lhbF9tdXNpY192aWRlbw==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4305966</Metadata>
+    <Metadata name="Source">billie_eilish_happier_than_ever_official_music_video.mp3</Metadata>
+    <Metadata name="SourceFile">YmlsbGllX2VpbGlzaF9oYXBwaWVyX3RoYW5fZXZlcl9vZmZpY2lhbF9tdXNpY192aWRlbw==.mp3</Metadata>
+    <Metadata name="mp3">billie_eilish_happier_than_ever_official_music_video</Metadata>
+    <Metadata name="srcurl">YmlsbGllX2VpbGlzaF9oYXBwaWVyX3RoYW5fZXZlcl9vZmZpY2lhbF9tdXNpY192aWRlbw==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">YmlsbGllX2VpbGlzaF9oYXBwaWVyX3RoYW5fZXZlcl9vZmZpY2lhbF9tdXNpY192aWRlbw==.mp3</Metadata>
+    <Metadata name="srclinkFile">YmlsbGllX2VpbGlzaF9oYXBwaWVyX3RoYW5fZXZlcl9vZmZpY2lhbF9tdXNpY192aWRlbw==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">04.05.2022</Metadata>
+    <Metadata name="dc.Description">Happier Than Ever</Metadata>
+    <Metadata name="dc.Format">mp3</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Title">Billie Eilish song</Metadata>
+    <Metadata name="dc.Type">Audio</Metadata>
+    <Metadata name="Title">billie eilish happier than ever official music video</Metadata>
+    <Metadata name="Identifier">HASH01411f2da44a158a60689a49</Metadata>
+    <Metadata name="lastmodified">1651680577</Metadata>
+    <Metadata name="lastmodifieddate">20220504</Metadata>
+    <Metadata name="oailastmodified">1651682411</Metadata>
+    <Metadata name="oailastmodifieddate">20220504</Metadata>
+    <Metadata name="assocfilepath">HASH0141.dir</Metadata>
+    <Metadata name="gsdlassocfile">YmlsbGllX2VpbGlzaF9oYXBwaWVyX3RoYW5fZXZlcl9vZmZpY2lhbF9tdXNpY192aWRlbw==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
